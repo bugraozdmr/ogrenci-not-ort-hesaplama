@@ -1,0 +1,7 @@
+#alert-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 20px; /* Uygun bir boşluk ekleyin */
+    z-index: 1000; /* Diğer öğelerin üzerinde olmasını sağlamak için */
+}
